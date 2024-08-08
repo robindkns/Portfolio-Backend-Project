@@ -12,6 +12,9 @@ export default function Navbar() {
                     <Link to='#about'>About</Link>
                 </li>
                 <li>
+                    <Link to='#skills'>Skills</Link>
+                </li>
+                <li>
                     <Link to='#works'>Works</Link>
                 </li>
                 <li>
